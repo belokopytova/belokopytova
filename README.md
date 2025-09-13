@@ -10,7 +10,7 @@
 - Python
 - Django
 - PostgreSQL
-- HTML, css
+- HTML, СSS
 
 <br>
 <br>
@@ -23,8 +23,8 @@
 |  название  |     описание     |
 | --------  | ------- |  
 | [homeworks-django](https://github.com/belokopytova/homeworks-django) | выполненные учебные задания по Django и Django REST framework     |
-| | выполненные тестовые задания| 
-| | выполненные учебные задания по основам Python, работе с API|
+| | выполненные учебные задания по основам Python, работа с API|
+| | выполненные учебные задания по HTML, CSS|
 
           
           
