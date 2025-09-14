@@ -23,7 +23,7 @@
 |  название  |     описание     |
 | --------  | ------- |  
 | [homeworks-django](https://github.com/belokopytova/homeworks-django) | выполненные учебные задания по Django и Django REST framework     |
-| | выполненные учебные задания по основам Python, работа с API|
+| [python-api-tasks](https://github.com/belokopytova/python-api-tasks)| выполненные учебные задания по основам Python, работа с API|
 | | выполненные учебные задания по HTML, CSS|
 
           
