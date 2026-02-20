@@ -24,9 +24,9 @@
 
 |  название  |     описание     |
 | --------  | ------- |  
-| [homeworks-django](https://github.com/belokopytova/homeworks-django) | выполненные учебные задания по Django и Django REST framework     |
-| [python-api-tasks](https://github.com/belokopytova/python-api-tasks)| выполненные учебные задания по основам Python, работа с API|
-| [html-css-tasks](https://github.com/belokopytova/html-css-tasks)| выполненные учебные задания по HTML, CSS|
+| [homeworks-django](https://github.com/belokopytova/homeworks-django) | Django и Django REST framework, выполненные учебные задания     |
+| [python-api-tasks](https://github.com/belokopytova/python-api-tasks)| Python, работа с API, выполненные учебные задания |
+| [html-css-tasks](https://github.com/belokopytova/html-css-tasks)| HTML, CSS, выполненные учебные задания|
 | [page for site blog](https://github.com/belokopytova/diploma)| одностраничный сайт блог|
 
           
